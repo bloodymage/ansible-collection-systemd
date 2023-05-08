@@ -1,0 +1,5 @@
+---
+autonomy_systemd_old_networking_services:
+  - ModemManager
+  - avahi-daemon
+  - networking
